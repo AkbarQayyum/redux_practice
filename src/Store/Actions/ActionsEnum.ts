@@ -1,0 +1,4 @@
+export enum ACTIONTYPES{
+BUY_CAKE='BUY_CAKE',
+RESET="RESET"
+}
